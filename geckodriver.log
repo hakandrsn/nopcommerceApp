@@ -1,0 +1,106 @@
+1642883606981	geckodriver	INFO	Listening on 127.0.0.1:56466
+1642883610258	geckodriver	INFO	Listening on 127.0.0.1:56474
+1642883652642	geckodriver	INFO	Listening on 127.0.0.1:56496
+1642883655879	geckodriver	INFO	Listening on 127.0.0.1:56504
+1642883865961	geckodriver	INFO	Listening on 127.0.0.1:57046
+1642883869195	geckodriver	INFO	Listening on 127.0.0.1:57054
+1642883949118	geckodriver	INFO	Listening on 127.0.0.1:57090
+1642883952322	geckodriver	INFO	Listening on 127.0.0.1:57098
+1642883995867	geckodriver	INFO	Listening on 127.0.0.1:57120
+1642883999093	geckodriver	INFO	Listening on 127.0.0.1:57128
+1642884029599	geckodriver	INFO	Listening on 127.0.0.1:57148
+1642884032804	geckodriver	INFO	Listening on 127.0.0.1:57156
+1642884637397	geckodriver	INFO	Listening on 127.0.0.1:63222
+1642884640637	geckodriver	INFO	Listening on 127.0.0.1:63230
+1642884828314	geckodriver	INFO	Listening on 127.0.0.1:63386
+1642884831396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63387" "-no-remote" "-profile" "C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofilejgyUqZ"
+1642884831928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofilejgyUqZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63387/devtools/browser/943348d7-168f-418b-aa39-bdcd4890c25c
+1642884834438	Marionette	INFO	Listening on port 63393
+1642884834603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642884838060	Marionette	INFO	Stopped listening on port 63393
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642884838828	geckodriver	INFO	Listening on 127.0.0.1:63432
+1642884841879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63433" "-no-remote" "-profile" "C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofileycWKLt"
+1642884842360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofileycWKLt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63433/devtools/browser/06cb3825-e9d7-4e20-8baa-041bedb7e20e
+1642884845001	Marionette	INFO	Listening on port 63439
+1642884845085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642884853598	Marionette	INFO	Stopped listening on port 63439
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643134399403	geckodriver	INFO	Listening on 127.0.0.1:51780
+1643134402647	geckodriver	INFO	Listening on 127.0.0.1:51788
+1643134497968	geckodriver	INFO	Listening on 127.0.0.1:51871
+1643134501196	geckodriver	INFO	Listening on 127.0.0.1:51879
+1643134545437	geckodriver	INFO	Listening on 127.0.0.1:51902
+1643134548677	geckodriver	INFO	Listening on 127.0.0.1:51910
+1643134796724	geckodriver	INFO	Listening on 127.0.0.1:52002
+1643134799776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52003" "-no-remote" "-profile" "C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofile3mWWB9"
+1643134800612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofile3mWWB9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52003/devtools/browser/f4ea6a17-2c71-4943-9883-2bbc25427e66
+1643134803696	Marionette	INFO	Listening on port 52009
+1643134804022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643134811903	Marionette	INFO	Stopped listening on port 52009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643134881096	geckodriver	INFO	Listening on 127.0.0.1:52134
+1643134884176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52135" "-no-remote" "-profile" "C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofileqU6Ycv"
+1643134884531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hakan\\AppData\\Local\\Temp\\rust_mozprofileqU6Ycv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52135/devtools/browser/b1c7d4d5-810d-4b48-abbe-b44c1ba71b4a
+1643134886798	Marionette	INFO	Listening on port 52141
+1643134886856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643134892322	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:86:4297
+t@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42576
+init@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:43224
+@https://admin-demo.nopcommerce.com/admin/:2518:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+1643135054514	Marionette	INFO	Stopped listening on port 52141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+AE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52190/devtools/browser/db0db525-f8f0-4f1c-a07a-a7fec55cef94
+1643134901081	Marionette	INFO	Listening on port 52203
+1643134901255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643134905691	Marionette	INFO	Stopped listening on port 52203
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643140867418	geckodriver	INFO	Listening on 127.0.0.1:52512
